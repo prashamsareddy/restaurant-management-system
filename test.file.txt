@@ -1,0 +1,2 @@
+this is text file  for restaurannt management system
+the restaurant handles the following activites as per assigned
